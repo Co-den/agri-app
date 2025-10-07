@@ -1,4 +1,3 @@
-
 # 🌾 AgriConnect Dashboard
 
 AgriConnect is a smart agriculture management platform designed to help farmers, agronomists, and agribusiness owners monitor and manage crop data, weather conditions, field activities, and market insights — all in one place.
@@ -110,10 +109,7 @@ Response:
   "activeAlerts": 3
 }
 
-> Document all endpoints under /api/ including their method, parameters, and expected responses.
-
-
-
+ Document all endpoints under /api/ including their method, parameters, and expected responses.
 
 ---
 
@@ -138,8 +134,6 @@ Authentication: JWT-based login system
 
 Notifications: Email or in-app alert system
 
-
-
 ---
 
 🎨 UI/UX Behavior
@@ -158,8 +152,6 @@ Data filtering and sorting for tables
 
 Optional export to CSV / PDF
 
-
-
 ---
 
 📖 Glossary
@@ -171,8 +163,6 @@ Alert Severity	Categorization of risk (Low / Medium / High)
 Hectare	Unit of area equal to 10,000 m²
 Market Trend	Weekly percentage change in commodity price
 Growth %	Ratio of days since planting vs expected growth cycle
-
-
 
 ---
 
@@ -202,8 +192,6 @@ View commodity prices and trends.
 Inspect sensor data and field status.
 
 
-
-
 ---
 
 ⚠️ Edge Cases
@@ -218,8 +206,6 @@ Conflicting alerts → group by field and severity
 
 Market API delay → timestamp last successful update
 
-
-
 ---
 
 🧩 Future Improvements
@@ -233,8 +219,6 @@ Farm financial tracking
 Mobile app companion with push notifications
 
 Multi-farm / cooperative management
-
-
 
 ---
 
