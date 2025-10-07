@@ -1,7 +1,7 @@
 
 ---
 
-<H1 align="center"># 🌾 AgriConnect Dashboard</H1>
+<H1 align="center">🌾 AgriConnect Dashboard</H1>
 
 AgriConnect is a smart agriculture management platform designed to help farmers, agronomists, and agribusiness owners monitor and manage crop data, weather conditions, field activities, and market insights — all in one place.
 
