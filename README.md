@@ -112,11 +112,11 @@ Response:
   "activeAlerts": 3
 }
 
-
+```
 ---
 
 
-🧠 Data Flow & Integrations
+## 🧠 Data Flow & Integrations
 
 Frontend: React (Next.js)
 
