@@ -245,7 +245,7 @@ For usage or integration rights, contact the project maintainers.
 
 ---
 
-Author: AgriConnect Team
+Author: Agugbue Ikenna Nzubechi 
 Deployed on: Vercel
 Repository: https://github.com/Co-den/agri-app
 
