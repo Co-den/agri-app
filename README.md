@@ -1,3 +1,8 @@
+Here’s your documentation rewritten as a clean README.md — suitable for GitHub or any developer documentation repo. It’s written in standard Markdown, with clear section headings, tables, and developer-friendly tone.
+
+
+---
+
 # 🌾 AgriConnect Dashboard
 
 AgriConnect is a smart agriculture management platform designed to help farmers, agronomists, and agribusiness owners monitor and manage crop data, weather conditions, field activities, and market insights — all in one place.
@@ -109,11 +114,14 @@ Response:
   "activeAlerts": 3
 }
 
- Document all endpoints under /api/ including their method, parameters, and expected responses.
+> Document all endpoints under /api/ including their method, parameters, and expected responses.
+
+
+
 
 ---
 
-## 🧠 Data Flow & Integrations
+🧠 Data Flow & Integrations
 
 Frontend: React (Next.js)
 
@@ -134,9 +142,11 @@ Authentication: JWT-based login system
 
 Notifications: Email or in-app alert system
 
+
+
 ---
 
-## 🎨 UI/UX Behavior
+🎨 UI/UX Behavior
 
 Fully responsive layout for desktop and mobile
 
@@ -152,9 +162,11 @@ Data filtering and sorting for tables
 
 Optional export to CSV / PDF
 
+
+
 ---
 
-## 📖 Glossary
+📖 Glossary
 
 Term	Definition
 
@@ -164,9 +176,11 @@ Hectare	Unit of area equal to 10,000 m²
 Market Trend	Weekly percentage change in commodity price
 Growth %	Ratio of days since planting vs expected growth cycle
 
+
+
 ---
 
-## 🧭 User Flow
+🧭 User Flow
 
 1. Login / Authentication
 User logs into the platform using credentials.
@@ -192,9 +206,11 @@ View commodity prices and trends.
 Inspect sensor data and field status.
 
 
+
+
 ---
 
-## ⚠️ Edge Cases
+⚠️ Edge Cases
 
 No active crops → display “No crops available” message
 
@@ -206,9 +222,11 @@ Conflicting alerts → group by field and severity
 
 Market API delay → timestamp last successful update
 
+
+
 ---
 
-## 🧩 Future Improvements
+🧩 Future Improvements
 
 Satellite or drone image integration
 
@@ -219,6 +237,8 @@ Farm financial tracking
 Mobile app companion with push notifications
 
 Multi-farm / cooperative management
+
+
 
 ---
 
@@ -232,6 +252,7 @@ For usage or integration rights, contact the project maintainers.
 
 Author: AgriConnect Team
 Deployed on: Vercel
-Repository: https://github.com/Co-den/agri-app
+Repository: (Add GitHub link when available)
+
 
 
