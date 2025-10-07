@@ -113,7 +113,7 @@ Response:
 
 ---
 
-🧠 Data Flow & Integrations
+## 🧠 Data Flow & Integrations
 
 Frontend: React (Next.js)
 
@@ -136,7 +136,7 @@ Notifications: Email or in-app alert system
 
 ---
 
-🎨 UI/UX Behavior
+## 🎨 UI/UX Behavior
 
 Fully responsive layout for desktop and mobile
 
@@ -154,7 +154,7 @@ Optional export to CSV / PDF
 
 ---
 
-📖 Glossary
+## 📖 Glossary
 
 Term	Definition
 
@@ -166,7 +166,7 @@ Growth %	Ratio of days since planting vs expected growth cycle
 
 ---
 
-🧭 User Flow
+## 🧭 User Flow
 
 1. Login / Authentication
 User logs into the platform using credentials.
@@ -194,7 +194,7 @@ Inspect sensor data and field status.
 
 ---
 
-⚠️ Edge Cases
+## ⚠️ Edge Cases
 
 No active crops → display “No crops available” message
 
@@ -208,7 +208,7 @@ Market API delay → timestamp last successful update
 
 ---
 
-🧩 Future Improvements
+## 🧩 Future Improvements
 
 Satellite or drone image integration
 
@@ -232,6 +232,6 @@ For usage or integration rights, contact the project maintainers.
 
 Author: AgriConnect Team
 Deployed on: Vercel
-Repository: (Add GitHub link when available)
+Repository: https://github.com/Co-den/agri-app
 
 
