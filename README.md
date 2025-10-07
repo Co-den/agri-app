@@ -91,3 +91,17 @@ Below is a suggested API schema to document the backend endpoints:
 
 ```http
 GET /api/dashboard/summary
+{
+  "activeCrops": 12,
+  "totalHectares": 45,
+  "weather": {
+    "status": "Partly Cloudy",
+    "temperature": 28,
+    "humidity": 65
+  },
+  "marketTrend": [
+    { "commodity": "Wheat", "changePercent": 12.5 },
+    { "commodity": "Corn", "changePercent": 5.2 }
+  ],
+  "activeAlerts": 3
+}
