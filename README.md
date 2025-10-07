@@ -1,5 +1,3 @@
-Here’s your documentation rewritten as a clean README.md — suitable for GitHub or any developer documentation repo. It’s written in standard Markdown, with clear section headings, tables, and developer-friendly tone.
-
 
 ---
 
@@ -114,11 +112,141 @@ Response:
   "activeAlerts": 3
 }
 
-> Document all endpoints under /api/ including their method, parameters, and expected responses.
+
+---
+
+
+🧠 Data Flow & Integrations
+
+Frontend: React (Next.js)
+
+Backend: Node.js / Express
+
+Database: MongoDB
+
+Integrations:
+
+Weather API (e.g. OpenWeather or Weatherbit)
+
+Market Data API
+
+IoT Sensor Data (optional)
+
+
+Authentication: JWT-based login system
+
+Notifications: Email or in-app alert system
+
+
+
+---
+
+🎨 UI/UX Behavior
+
+Fully responsive layout for desktop and mobile
+
+Loading skeletons for API data
+
+Error fallback: “Data unavailable” for failed requests
+
+Role-based route protection
+
+Active nav highlighting
+
+Data filtering and sorting for tables
+
+Optional export to CSV / PDF
+
+
+
+---
+
+📖 Glossary
+
+Term	Definition
+
+Active Crop	A crop currently planted and not yet harvested
+Alert Severity	Categorization of risk (Low / Medium / High)
+Hectare	Unit of area equal to 10,000 m²
+Market Trend	Weekly percentage change in commodity price
+Growth %	Ratio of days since planting vs expected growth cycle
+
+
+
+---
+
+🧭 User Flow
+
+1. Login / Authentication
+User logs into the platform using credentials.
+
+
+2. Dashboard View
+Displays summarized farm overview (weather, crops, alerts).
+
+
+3. Manage Crops
+Navigate to Crop Planning module to add/edit crops.
+
+
+4. Alerts Review
+Check current pest or weather warnings.
+
+
+5. Market Insights
+View commodity prices and trends.
+
+
+6. Field Monitoring
+Inspect sensor data and field status.
 
 
 
 
 ---
+
+⚠️ Edge Cases
+
+No active crops → display “No crops available” message
+
+Weather API failure → fallback to cached or blank data
+
+Missing sensor data → show “Awaiting data” placeholder
+
+Conflicting alerts → group by field and severity
+
+Market API delay → timestamp last successful update
+
+
+
+---
+
+🧩 Future Improvements
+
+Satellite or drone image integration
+
+Yield forecasting using AI models
+
+Farm financial tracking
+
+Mobile app companion with push notifications
+
+Multi-farm / cooperative management
+
+
+
+---
+
+📄 License
+
+This project is proprietary. Unauthorized duplication or distribution is prohibited.
+For usage or integration rights, contact the project maintainers.
+
+
+---
+
+Author: AgriConnect Team
+Deployed on: Vercel
+Repository: (Add GitHub link when available)
 
 
